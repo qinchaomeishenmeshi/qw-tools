@@ -25,10 +25,10 @@ jobs:
 
       - name: Build executable with PyInstaller
         run: |
-          pyinstaller --onefile --add-data "config.json;." --name "jianying-tools" jianying.py
+          pyinstaller --onefile --add-data "config.json;." --name "jianying-download-tools" main.py
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: jianying-tools-exe
-          path: dist/jianying-tools.exe 
+          name: jianying-download-tools-exe
+          path: dist/jianying-download-tools.exe 
