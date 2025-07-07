@@ -1,0 +1,51 @@
+{
+  "keywords": [
+    "电音节",
+    "小龙虾"
+  ],
+  "effect_type": 5,
+  "count": 100,
+  "save_full_result": true,
+  "save_video_urls": true,
+  "download_videos": true,
+  "max_workers": 5,
+  "save_dir": "data/results/jianying",
+  "video_dir": "data/video",
+  "cookies": {
+    "store-region": "cn-hb",
+    "store-region-src": "uid",
+    "n_mh": "8KAIYd9nMFxwSVPpy4XEJKhGL0nyfw_35Nxkilxelck",
+    "passport_csrf_token": "311c279e13e613ecc67ce486d0ba89fc",
+    "passport_csrf_token_default": "311c279e13e613ecc67ce486d0ba89fc",
+    "sid_guard": "fd9ebaee83632608f1ea217f78e4e558%7C1747967643%7C5184000%7CTue%2C+22-Jul-2025+02%3A34%3A03+GMT",
+    "uid_tt": "10740e0db45c09735197a4ace7e23f20",
+    "uid_tt_ss": "10740e0db45c09735197a4ace7e23f20",
+    "sid_tt": "fd9ebaee83632608f1ea217f78e4e558",
+    "sessionid": "fd9ebaee83632608f1ea217f78e4e558",
+    "sessionid_ss": "fd9ebaee83632608f1ea217f78e4e558",
+    "is_staff_user": "false",
+    "sid_ucp_v1": "1.0.0-KDMxMTBlNmMzOTA5NjZlNDkzNzNjN2JjNmRiMTM2MmEyM2ZmMTgxZmYKHwiD99C91czNBBCbvb_BBhifrR8gDDCQ-NWyBjgIQCYaAmxmIiBmZDllYmFlZTgzNjMyNjA4ZjFlYTIxN2Y3OGU0ZTU1OA",
+    "ssid_ucp_v1": "1.0.0-KDMxMTBlNmMzOTA5NjZlNDkzNzNjN2JjNmRiMTM2MmEyM2ZmMTgxZmYKHwiD99C91czNBBCbvb_BBhifrR8gDDCQ-NWyBjgIQCYaAmxmIiBmZDllYmFlZTgzNjMyNjA4ZjFlYTIxN2Y3OGU0ZTU1OA",
+    "_uetvid": "27f18f50f8ac11efafd0f56303409b7b",
+    "odin_tt": "fbfde72c09ee8e595b07dcb2ee27f68f31e09d7d61b840ff3a7bb4dd065e3689e9537ceca06b0ec148b103f9f9c5e454d1ae7de4f9b7c2aef70b43499d3a54bc",
+    "_tea_web_id": "7397668772687349298",
+    "s_v_web_id": "verify_mcburg40_nEP4SLZm_jTgg_4ePs_AD3M_38lbBBofbVEm",
+    "COOKIE_CONSENT_PROMPT_CONFIG": "{%22status%22:1%2C%22settings%22:{%22firstPartyAnalytics%22:true%2C%22GoogleAnalytics%22:true}%2C%22updatedTime%22:1750849795438}",
+    "ttwid": "1|hMs1clJXG22twhi8wRvpoUzyeaPmKoVyCJxSeR6RhvM|1750849800|7057d47a4f646231d5082ba5d30f95e04f0c2d70bcb96a5ee3f4383fdcd00dab"
+  },
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "zh-CN,zh;q=0.9",
+    "content-type": "application/json",
+    "origin": "https://www.jianying.com",
+    "priority": "u=1, i",
+    "referer": "https://www.jianying.com/ai-creator/storyboard/23608377858?workspaceId=7397267851037687849&spaceId=7373936382663721254&draftId=881FB5BA-F5DF-4C00-B28C-52E87BAFA205",
+    "sec-ch-ua": "\"Google Chrome\";v=\"137\", \"Chromium\";v=\"137\", \"Not/A)Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+  }
+}
